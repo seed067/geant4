@@ -1,0 +1,3 @@
+/home/seed/geant4_seed/build/CMakeFiles/simple_pp.dir
+/home/seed/geant4_seed/build/CMakeFiles/edit_cache.dir
+/home/seed/geant4_seed/build/CMakeFiles/rebuild_cache.dir
