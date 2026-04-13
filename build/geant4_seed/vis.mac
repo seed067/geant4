@@ -1,0 +1,8 @@
+/vis/open OGL
+/vis/drawVolume
+/vis/viewer/set/viewpointVector 1 1 1
+/vis/viewer/zoom 1.5
+/vis/scene/add/trajectories smooth
+/vis/modeling/trajectories/create/drawByParticleID
+/vis/scene/endOfEventAction accumulate
+/run/beamOn 10
